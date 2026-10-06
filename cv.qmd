@@ -1,14 +1,14 @@
 ---
 author:
-  - name: Sidney Verba
-    url: https://en.wikipedia.org/wiki/Sidney_Verba
-    email: "example@harvard.edu"
+  - name: You-Chen Chen
+    url: https://github.com/youchenuh
+    email: "ychen266@cougarnet.uh.edu"
     degrees:
-      - PhD
+      - PhD Student
     affiliations:
-      - name: Harvard University
-        department: Department of Government
-    title: "Carl H. Pforzheimer University Professor (Emeritus)"
+      - name: University of Houston
+        department: Department of Political Science
+    title: "PhD Student"
 date: today
 format:
   cv-typst:

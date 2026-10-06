@@ -1,16 +1,19 @@
 education:
-  Princeton University:
+  University of Houston:
     - degree: Ph.D.
       year:
-        end: 1959
+        start: 2025
+        end: present
+
+  Tunghai University:
     - degree: M.A.
       year:
-        end: 1957
-  Harvard College:
+        end: 2019
+
     - degree: B.A.
       year:
-        end: 1953
-        start: 1949
+        start: 2014
+        end: 2018
 
 appointments:
   Harvard University:
