@@ -1,0 +1,55 @@
+---
+author:
+  - name: Sidney Verba
+    url: https://en.wikipedia.org/wiki/Sidney_Verba
+    email: "example@harvard.edu"
+    degrees:
+      - PhD
+    affiliations:
+      - name: Harvard University
+        department: Department of Government
+    title: "Carl H. Pforzheimer University Professor (Emeritus)"
+date: today
+format:
+  cv-typst:
+    keep-typ: false
+csl: "revsort-chicago-author-date.csl"
+bibliography:
+  books: "books.bib"
+  bookchapters: "book_chapters.bib"
+  articles: "journal_articles.bib"
+  workingpapers: "working_papers.bib"
+nocite: '@*'
+---
+
+## Education
+
+{{< cv education >}}
+
+## Books
+
+:::{#refs-books}
+:::
+
+## Peer-Reviewed Articles
+
+:::{#refs-articles}
+:::
+
+## Book Chapters
+
+:::{#refs-bookchapters}
+:::
+
+## Working Papers
+
+:::{#refs-workingpapers}
+:::
+
+## Honors
+
+{{< cv honors >}}
+
+## Service
+
+{{< cv positions >}}
