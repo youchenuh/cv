@@ -1,49 +1,12 @@
 education:
   University of Houston:
-    - degree: Ph.D.
+    - degree: Ph.D. Student, Political Science
       year:
-        start: 2025
-        end: present
+        end: Present
 
-  Tunghai University:
-    - degree: M.A.
-      year:
-        end: 2019
+  Tunghai University(Taiwan):
+    - degree: M.A., Political Science
+      year: {}
 
-    - degree: B.A.
-      year:
-        start: 2014
-        end: 2018
-
-appointments:
-  Harvard University:
-  - position: Director of the Harvard University Library emeritus
-    year:
-      start: 1984
-  - position: Associate Dean for Undergraduate Education, Faculty of Arts and Sciences
-    year:
-      end: 1984
-      start: 1981
-  - position: Clarence Dillon Professor of International Affairs
-    year:
-      end: 1984
-      start: 1983
-  University of Chicago:
-  - position: Professor of Political Science
-    year:
-      end: 1972
-      start: 1968
-  - position: Senior Study Director, National Opinion Research Center
-    year:
-      end: 1972
-      start: 1968
-  Stanford University:
-  - position: Professor of Political Science
-    year:
-      end: 1968
-      start: 1964
-  Princeton University:
-  - position: Assistant and Associate Professor of Politics
-    year:
-      end: 1964
-      start: 1960
+    - degree: B.A., Political Science
+      year: {}

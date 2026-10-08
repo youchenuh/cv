@@ -3,42 +3,44 @@ author:
   - name: You-Chen Chen
     url: https://github.com/youchenuh
     email: "ychen266@cougarnet.uh.edu"
-    degrees:
-      - PhD Student
     affiliations:
       - name: University of Houston
         department: Department of Political Science
     title: "PhD Student"
+
 date: today
+
 format:
   cv-typst:
     keep-typ: false
+
 csl: "revsort-chicago-author-date.csl"
+
 bibliography:
   books: "books.bib"
-  bookchapters: "book_chapters.bib"
   articles: "journal_articles.bib"
   workingpapers: "working_papers.bib"
+  presentations: "presentations.bib"
+
 nocite: '@*'
 ---
+
+## Research Interests
+
+Political Behavior, Political Psychology, Public Opinion, Legislative Politics, Representation.
 
 ## Education
 
 {{< cv education >}}
 
-## Books
+## Book Manuscript in Preparation
 
 :::{#refs-books}
 :::
 
-## Peer-Reviewed Articles
+## Peer-Reviewed Journal Articles
 
 :::{#refs-articles}
-:::
-
-## Book Chapters
-
-:::{#refs-bookchapters}
 :::
 
 ## Working Papers
@@ -46,10 +48,32 @@ nocite: '@*'
 :::{#refs-workingpapers}
 :::
 
-## Honors
+## Conference Presentations
+
+:::{#refs-presentations}
+:::
+
+## Teaching Experience
+
+**University of Houston**
+
+- Teaching Assistant, Quantitative Methods I Lab, 2026 Fall.
+
+**Soochow University**
+
+- Instructor, Data Analysis for Social Science, 2023.
+- Lecturer, RStudio Application Workshop, 2023.
+- Lecturer, RStudio Application Workshop, 2022.
+
+**Tunghai University**
+
+- Lecturer, Political Quantitative Research Methods Workshop, 2024.
+- Lecturer, Political Quantitative Research Methods Workshop, 2023.
+
+## Honors and Awards
 
 {{< cv honors >}}
 
-## Service
+## Technical Skills
 
-{{< cv positions >}}
+R, Stata.
