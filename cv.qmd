@@ -14,6 +14,8 @@ format:
   cv-typst:
     keep-typ: false
 
+link-bibliography: true
+
 csl: "revsort-chicago-author-date.csl"
 
 bibliography:
@@ -61,7 +63,7 @@ Political Behavior, Political Psychology, Public Opinion, Legislative Politics, 
 
 **Soochow University**
 
-- Instructor, Data Analysis for Social Science, 2023.
+- Instructor, Data Analysis for Social Science, 2024.
 - Lecturer, RStudio Application Workshop, 2023.
 - Lecturer, RStudio Application Workshop, 2022.
 
